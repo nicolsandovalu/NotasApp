@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="nueva_nota">Nueva Nota</string>
+    <string name="titulo">Título</string>
+    <string name="contenido">Contenido</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="guardar">Guardar</string>
+    <string name="buscar">Buscar notas...</string>
+    <string name="desc_fab_agregar">Agregar nueva nota</string>
+
+    <string-array name="default_categories">
+        <item>Todas</item>
+        <item>General</item>
+        <item>Personal</item>
+        <item>Trabajo</item>
+        <item>Compras</item>
+        <item>Ideas</item>
+    </string-array>
+</resources>
