@@ -2,25 +2,25 @@
 NotasApp es una aplicación intuitiva y eficiente para gestionar tus notas diarias. Organiza tus ideas, tareas y recordatorios de manera sencilla, con un diseño limpio y funcionalidades prácticas.
 
 <p align="center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> </p>
-✨ Características
 
-## ✅ Lista de notas
+## ✨ Características
+** ✅ Lista de notas ** 
 
 Visualiza todas tus notas en una interfaz clara con título, categoría y fecha.
 
-## ✅ Creación y edición rápida
+** ✅ Creación y edición rápida ** 
 
 Añade nuevas notas con un botón flotante.
 
 Edita título y contenido fácilmente desde la vista detallada.
 
-## ✅ Búsqueda y filtrado por categorías
+**  ✅ Búsqueda y filtrado por categorías ** 
 
 Busca notas por título o contenido.
 
 Filtra por categorías: Personal, Trabajo, Compras o General.
 
-## ✅ Gestión de notas
+** ✅ Gestión de notas ** 
 
 Elimina notas no deseadas con un solo clic.
 
@@ -60,7 +60,7 @@ UI: XML.
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar NotasApp:
 
-## Haz un fork del proyecto.
+Haz un fork del proyecto.
 
 Crea una rama con tu feature (git checkout -b feature/nueva-funcionalidad).
 
